@@ -1,0 +1,39 @@
+Surface RT Revive — guía y documentación
+Copyright (c) 2026 Johan Sebastian Duque Orozco
+
+Este repositorio (texto, guía, estructura, comandos) se publica bajo
+Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
+Puedes copiarlo, adaptarlo, traducirlo y redistribuirlo, incluso con fines
+comerciales, siempre que se te atribuya la autoría.
+
+Texto completo de la licencia:
+    https://creativecommons.org/licenses/by/4.0/legalcode/es
+Resumen humano:
+    https://creativecommons.org/licenses/by/4.0/deed.es
+
+---
+
+SOFTWARE DE TERCEROS (NO cubierto por esta licencia)
+
+apps/SumatraPDF-3.3.3-Arm32.zip
+    SumatraPDF 3.0.0+ — Copyright (c) Krzysztof Kowalczyk y colaboradores
+    Puerto a ARM32 por PlumeQi
+    Licencia: GPL-3.0
+    Fuente del puerto: https://github.com/plumeqi/RT_Arm32_Porting
+
+apps/PlumeQi.cer
+    Certificado autofirmado CN=PlumeQi, utilizado para firmar los binarios
+    de los puertos ARM32 anteriores. Se distribuye tal cual, sin garantía.
+
+---
+
+AVISO LEGAL
+
+Esta documentación describe técnicas que desactivan medidas de seguridad
+del equipo (Secure Boot / verificación de código de Windows RT). El uso
+es exclusivamente responsabilidad de quien lo aplique. El autor no se hace
+responsable de daños, pérdida de datos, pérdida de garantía ni bloqueos.
+No se redistribuye ningún firmware, software ni imagen de recuperación
+propiedad de Microsoft Corporation; esos archivos se obtienen de fuentes
+oficiales indicadas en la guía.
